@@ -1,0 +1,23 @@
+{
+  "name": "ticket-booking-system",
+  "version": "1.0.0",
+  "description": "A ticket booking system with seat locking mechanism",
+  "main": "ticket booking system.js",
+  "type": "module",
+  "scripts": {
+    "start": "node \"ticket booking system.js\"",
+    "dev": "node --watch \"ticket booking system.js\""
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "uuid": "^10.0.0"
+  },
+  "keywords": [
+    "ticket",
+    "booking",
+    "express",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC"
+}
